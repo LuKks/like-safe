@@ -1,0 +1,24 @@
+{
+  "name": "like-safe",
+  "version": "0.0.0",
+  "description": "Inline try-catch error handling",
+  "main": "index.js",
+  "files": [],
+  "scripts": {
+    "test": "standard && brittle test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukks/like-safe.git"
+  },
+  "author": "Lucas Barrena (LuKks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukks/like-safe/issues"
+  },
+  "homepage": "https://github.com/lukks/like-safe#readme",
+  "devDependencies": {
+    "brittle": "^3.3.2",
+    "standard": "^17.1.0"
+  }
+}
