@@ -1,6 +1,6 @@
 {
   "name": "like-safe",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Inline try-catch error handling",
   "main": "index.js",
   "files": [],
